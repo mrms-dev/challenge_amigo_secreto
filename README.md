@@ -11,7 +11,7 @@ O **Amigo Secreto** é uma aplicação web desenvolvida durante o **Challenge da
 O objetivo do projeto é permitir que os usuários cadastrem nomes em uma lista e realizem o sorteio do **Amigo Secreto** de forma automática e justa, simulando a brincadeira tradicional.  
 
 ## Layout web  
-![Web 1](https://github.com/mrms-dev/amigo-secreto/raw/main/assets/web1.png)  
+![Web 1](https://github.com/mrms-dev/challenge_amigo_secreto/blob/main/assets/web-amigo-secreto.png)
 
 ![Web 2](https://github.com/mrms-dev/amigo-secreto/raw/main/assets/web2.png)  
 
